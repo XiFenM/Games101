@@ -1,6 +1,7 @@
 #include<cmath>
 #include<eigen3/Eigen/Core>
 #include<eigen3/Eigen/Dense>
+#include <opencv2/opencv.hpp>
 #include<iostream>
 
 int main(){
